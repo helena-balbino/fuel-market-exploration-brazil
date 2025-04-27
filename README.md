@@ -28,7 +28,7 @@ README.md    → Documentação do projeto
 
 ## Etapas do Projeto
 
-- Coleta e consolidação de dados de mais de 20 arquivos CSV
+- Coleta e consolidação de dados semestrais dos ultimos seis anos
 - Limpeza e padronização dos dados
 - Análise exploratória:
     - de produtos;
@@ -45,7 +45,7 @@ README.md    → Documentação do projeto
 ---
 
 ### 🔹 Evolução dos Preços Médios (2019–2024)
-![Evolução dos Preços](imagens/evolevolucao_preco.png)
+![Evolução dos Preços](imagens/evolucao_preco.png)
 
 ---
 
